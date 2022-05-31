@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DbCourseDesign:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a37a5ba4-dfed-4a96-8f5b-ecba5fb8fde3" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DbCourseDesign_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/DbCourseDesign_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/libs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DbCourseDesign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DbCourseDesign.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/course.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/course.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/course_semester.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/course_semester.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/message.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/message.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/student.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/student.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/teacher.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/teacher.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/user.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/user.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DB/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DB/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/servlets/root/runinfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlets/root/runinfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/addcourse.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/addcourse.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/include/htmlFooter.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/include/htmlFooter.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/root/addnewpeople.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/root/addnewpeople.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/root/coursearrangement.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/root/coursearrangement.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/root/courseinfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/root/courseinfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/root/createlist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/root/createlist.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/root/newcourse.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/root/newcourse.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/root/runingcontrol.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/root/runingcontrol.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/student/select_course.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/student/select_course.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/login.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/login.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="Jsp File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>qq</find>
+      <find>getprovince</find>
+      <find>setpr</find>
+      <find>选课控制</find>
+      <find>major</find>
+      <find>college</find>
+      <find>college_crea</find>
+      <find>major_cre</find>
+      <find>major_create</find>
+      <find>temp</find>
+      <find>run</find>
+      <find>major_name</find>
+      <find>stoprun</find>
+      <find>startrun</find>
+      <find>iss</find>
+      <find>选择课程</find>
+      <find>cancle_selected</find>
+      <find>cancle_</find>
+      <find>ensure</find>
+      <find>cancle_select</find>
+      <find>ensure_select</find>
+      <find>stydu_course.semester</find>
+      <find>授课</find>
+      <find>F</find>
+      <find>成绩管理</find>
+      <find>course</find>
+      <find>学生信息</find>
+      <find>成绩</find>
+      <find>课表</find>
+      <find>arr</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/app/root/createlist.jsp" />
+        <option value="$PROJECT_DIR$/web/app/include/rootleft.jsp" />
+        <option value="$PROJECT_DIR$/src/servlets/root/addselectlist.java" />
+        <option value="$PROJECT_DIR$/src/servlets/root/searchselectlist.java" />
+        <option value="$PROJECT_DIR$/web/app/root/runingcontrol.jsp" />
+        <option value="$PROJECT_DIR$/src/servlets/root/managerun.java" />
+        <option value="$PROJECT_DIR$/src/DB/SemesterDB.java" />
+        <option value="$PROJECT_DIR$/src/servlets/root/runingcontrol.java" />
+        <option value="$PROJECT_DIR$/src/view/course_select.java" />
+        <option value="$PROJECT_DIR$/src/DB/DB.java" />
+        <option value="$PROJECT_DIR$/src/view/Course_select.java" />
+        <option value="$PROJECT_DIR$/src/DB/SelectListDB.java" />
+        <option value="$PROJECT_DIR$/src/servlets/student/select_course.java" />
+        <option value="$PROJECT_DIR$/web/app/student/select_course.jsp" />
+        <option value="$PROJECT_DIR$/src/servlets/publicfun/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/view/course_teache.java" />
+        <option value="$PROJECT_DIR$/src/view/Course_teache.java" />
+        <option value="$PROJECT_DIR$/web/app/include/teacherright.jsp" />
+        <option value="$PROJECT_DIR$/web/app/teacher/teachlist.jsp.xhtml" />
+        <option value="$PROJECT_DIR$/web/app/root/newcourse.jsp" />
+        <option value="$PROJECT_DIR$/src/view/Course_teach.java" />
+        <option value="$PROJECT_DIR$/src/servlets/teacher/teachlist.java" />
+        <option value="$PROJECT_DIR$/src/DB/Course_teacheDB.java" />
+        <option value="$PROJECT_DIR$/web/app/teacher/teachlist.jsp" />
+        <option value="$PROJECT_DIR$/web/app/include/rootheader.jsp" />
+        <option value="$PROJECT_DIR$/src/servlets/teacher/grademanage.java" />
+        <option value="$PROJECT_DIR$/web/app/teacher/gradecourse.jsp" />
+        <option value="$PROJECT_DIR$/web/app/teacher/gradestudentlist.jsp" />
+        <option value="$PROJECT_DIR$/src/servlets/teacher/coursegrademanage.java" />
+        <option value="$PROJECT_DIR$/src/servlets/content.java" />
+        <option value="$PROJECT_DIR$/src/DB/CourseSemesterDB.java" />
+        <option value="$PROJECT_DIR$/web/app/include/teacherleft.jsp" />
+        <option value="$PROJECT_DIR$/src/view/StudentInfo.java" />
+        <option value="$PROJECT_DIR$/src/servlets/teacher/studentlist.java" />
+        <option value="$PROJECT_DIR$/web/app/teacher/studentlist.jsp" />
+        <option value="$PROJECT_DIR$/web/app/include/teacherheader.jsp" />
+        <option value="$PROJECT_DIR$/src/model/StudyCourse.java" />
+        <option value="$PROJECT_DIR$/src/servlets/student/gradelist.java" />
+        <option value="$PROJECT_DIR$/out/artifacts/DbCourseDesign_war_exploded/css/add.css" />
+        <option value="$PROJECT_DIR$/web/css/add.css" />
+        <option value="$PROJECT_DIR$/web/app/student/gradelist.jsp" />
+        <option value="$PROJECT_DIR$/web/app/include/sturight.jsp" />
+        <option value="$PROJECT_DIR$/web/app/include/stuleft.jsp" />
+        <option value="$PROJECT_DIR$/web/app/include/studentheader.jsp" />
+        <option value="$PROJECT_DIR$/web/css/course_table.css" />
+        <option value="$PROJECT_DIR$/web/app/include/htmlHead.jsp" />
+        <option value="$PROJECT_DIR$/src/model/CourseSemester.java" />
+        <option value="$PROJECT_DIR$/src/view/CourseTable.java" />
+        <option value="$PROJECT_DIR$/src/DB/StudyCourseDB.java" />
+        <option value="$PROJECT_DIR$/src/servlets/student/course_table.java" />
+        <option value="$PROJECT_DIR$/web/app/student/course_table.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="DbCourseDesign/invalid/JRebel" />
+    </ignored-facets>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="true" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="530" />
+    <option name="y" value="20" />
+    <option name="width" value="1315" />
+    <option name="height" value="965" />
+  </component>
+  <component name="ProjectId" id="29mnFJgOlQIVqde04R0wjHlgjlJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DbCourseDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DbCourseDesign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DbCourseDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DbCourseDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DbCourseDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DbCourseDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="servlets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DbCourseDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DbCourseDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="servlets" type="462c0819:PsiDirectoryNode" />
+              <item name="student" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DbCourseDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DbCourseDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DbCourseDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DbCourseDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DbCourseDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DbCourseDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DbCourseDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DbCourseDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DbCourseDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DbCourseDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="grade&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/student/gradelist.jsp&#10;newcourse&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/root/newcourse.jsp&#10;stu&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/studentheader.jsp&#10;stuleft&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/stuleft.jsp&#10;sturi&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/sturight.jsp&#10;studenthe&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/studentheader.jsp&#10;add&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/css/add.css&#10;runing&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/root/runingcontrol.jsp&#10;teacherheader&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/teacherheader.jsp&#10;teacher&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/teacherleft.jsp&#10;content&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/src/servlets/content.java&#10;login&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/src/servlets/publicfun/LoginServlet.java&#10;root&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/rootheader.jsp&#10;courseinfo&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/root/courseinfo.jsp&#10;teachlis&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/teacher/teachlist.jsp&#10;content.jsp&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/content.jsp&#10;teacherright&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/teacherright.jsp&#10;roothea&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/rootheader.jsp&#10;teacherhea&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/teacherheader.jsp&#10;teacherleft&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/teacherleft.jsp&#10;searchclass&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/src/servlets/course/searchclass.java&#10;teacherri&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/teacherright.jsp&#10;noticedetail&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/student/noticedetail.jsp&#10;searchnotice&#9;PSI&#9;JAVA://servlets.root.searchnotice&#10;student&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/studentheader.jsp&#10;stule&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/stuleft.jsp&#10;co&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/content.jsp&#10;select&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/src/servlets/student/select_course.java&#10;studentheader&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/studentheader.jsp&#10;search&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/src/servlets/root/searchselectlist.java&#10;add.css&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/css/add.css&#10;searchlist&#9;null&#9;null&#10;course&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/root/newcourse.jsp&#10;rootleft&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/rootleft.jsp&#10;run&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/src/servlets/root/runingcontrol.java&#10;rootl&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/rootleft.jsp&#10;rooth&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/include/rootheader.jsp&#10;create&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/root/createlist.jsp&#10;list&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/web/app/root/createlist.jsp&#10;teacherdb&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/src/DB/TeacherDB.java&#10;teac&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/src/model/Teacher.java&#10;tea&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/src/DB/TeacherDB.java&#10;changeinfo&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/src/servlets/publicfun/changeinfo.java&#10;searchnew&#9;FILE&#9;file://D:/Data/Coder/Java/DbCourseDesign/src/servlets/course/searchnew.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546016581877" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2893226" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.splitter.proportion" value="0.22211155" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Data\Coder\Java\DbCourseDesign\web\app\student" />
+      <recent name="D:\Data\Coder\Java\DbCourseDesign\web\app\root" />
+      <recent name="D:\Data\Coder\Java\DbCourseDesign\web\app\include" />
+      <recent name="D:\Data\Coder\Java\DbCourseDesign\web\app" />
+      <recent name="D:\Data\Coder\Java\DbCourseDesign\web\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code\Code_Java\DB_Course_Design\web\images" />
+      <recent name="D:\Data\Coder\Java\DbCourseDesign\web\app\student" />
+      <recent name="D:\Data\Coder\Java\DbCourseDesign\web\app\include" />
+      <recent name="D:\Data\Coder\Java\DbCourseDesign\web\images" />
+      <recent name="D:\Data\Coder\Java\DbCourseDesign\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="servlets.course" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.60" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.60" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="DbCourseDesign:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="d4f5e5a6-06af-41a1-a9ba-197d0a61d9c8" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9264" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="DbCourseDesign:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a37a5ba4-dfed-4a96-8f5b-ecba5fb8fde3" name="Default Changelist" comment="" />
+      <created>1540604867509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540604867509</updated>
+      <workItem from="1540604877169" duration="1771000" />
+      <workItem from="1540606771424" duration="5592000" />
+      <workItem from="1540687093826" duration="4295000" />
+      <workItem from="1540805514807" duration="1360000" />
+      <workItem from="1540828936240" duration="28000" />
+      <workItem from="1540996129944" duration="2350000" />
+      <workItem from="1541000250445" duration="3141000" />
+      <workItem from="1541029582789" duration="144000" />
+      <workItem from="1541029764715" duration="5304000" />
+      <workItem from="1541048057721" duration="12919000" />
+      <workItem from="1541069666431" duration="12841000" />
+      <workItem from="1542196530833" duration="584000" />
+      <workItem from="1542200621338" duration="3340000" />
+      <workItem from="1542204880744" duration="4618000" />
+      <workItem from="1542501103671" duration="662000" />
+      <workItem from="1542522481298" duration="635000" />
+      <workItem from="1542593800667" duration="1962000" />
+      <workItem from="1543026797422" duration="1619000" />
+      <workItem from="1543043712553" duration="33076000" />
+      <workItem from="1543132320242" duration="5411000" />
+      <workItem from="1543142759294" duration="393000" />
+      <workItem from="1543576624489" duration="839000" />
+      <workItem from="1543935359842" duration="242000" />
+      <workItem from="1544010665475" duration="222000" />
+      <workItem from="1544011841378" duration="4121000" />
+      <workItem from="1544017849750" duration="6030000" />
+      <workItem from="1544695354380" duration="2498000" />
+      <workItem from="1544703647105" duration="2550000" />
+      <workItem from="1544717011130" duration="33178000" />
+      <workItem from="1544787893831" duration="15136000" />
+      <workItem from="1544839262600" duration="17458000" />
+      <workItem from="1544880201248" duration="9286000" />
+      <workItem from="1544925477422" duration="29997000" />
+      <workItem from="1544969256392" duration="796000" />
+      <workItem from="1545204942238" duration="14624000" />
+      <workItem from="1545226188936" duration="11879000" />
+      <workItem from="1545287986446" duration="6459000" />
+      <workItem from="1545381107614" duration="15614000" />
+      <workItem from="1545457738822" duration="14396000" />
+      <workItem from="1545475226215" duration="15994000" />
+      <workItem from="1545817956385" duration="10240000" />
+      <workItem from="1545842410276" duration="4545000" />
+      <workItem from="1545885751634" duration="21552000" />
+      <workItem from="1545961871962" duration="9316000" />
+      <workItem from="1545973426653" duration="21282000" />
+      <workItem from="1545996358635" duration="17572000" />
+      <workItem from="1653727026945" duration="856000" />
+      <workItem from="1653804386971" duration="830000" />
+      <workItem from="1653805341323" duration="46000" />
+      <workItem from="1653963964645" duration="3719000" />
+      <workItem from="1653978136084" duration="4819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="387871000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.28652483" side_tool="true" weight="0.16353887" />
+      <window_info id="Designer" order="1" />
+      <window_info id="JRebel" order="2" sideWeight="0.29032257" side_tool="true" weight="0.16353887" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.33818182" side_tool="true" weight="0.13941018" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.30780143" side_tool="true" weight="0.19839142" />
+      <window_info active="true" content_ui="combo" id="Project" order="8" sideWeight="0.6921986" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.45815602" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" weight="0.40141845" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5033512" side_tool="true" weight="0.635461" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49798927" weight="0.004255319" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" x="22" y="183" width="1492" height="457" id="JRebel Executor" order="14" sideWeight="0.4966488" weight="0.0" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.5033512" side_tool="true" weight="0.635461" />
+      <window_info anchor="bottom" id="Problems" order="16" weight="0.2141844" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="9" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" sideWeight="0.28652483" side_tool="true" weight="0.16353887" />
+      <window_info id="Designer" order="1" />
+      <window_info id="JRebel" order="2" sideWeight="0.29032257" side_tool="true" weight="0.16353887" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.33818182" side_tool="true" weight="0.13941018" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.30780143" side_tool="true" weight="0.19839142" />
+      <window_info active="true" content_ui="combo" id="Project" order="8" sideWeight="0.6921986" visible="true" weight="0.15482573" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.45815602" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" weight="0.40141845" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5033512" side_tool="true" weight="0.635461" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49798927" weight="0.004255319" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" x="22" y="183" width="1492" height="457" id="JRebel Executor" order="14" sideWeight="0.4966488" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.5033512" side_tool="true" weight="0.635461" />
+      <window_info anchor="bottom" id="Problems" order="16" weight="0.2141844" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="9" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/out/production/DbCourseDesign/DB/CourseDB.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/DbCourseDesign/DB/DB.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/teacher/teachlist.jsp.xhtml" />
+    <entry file="file://$PROJECT_DIR$/src/view/Course_teach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/course/searchclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/include/rootright.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/include/rootleft.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/student/select_course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="29" column="64" lean-forward="true" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/include/teacherright.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#style#0;n#span#2;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/content.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/root/courseinfo.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="137" column="22" lean-forward="true" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DB/Course_teacheDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="73" column="91" selection-start-line="73" selection-start-column="91" selection-end-line="73" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1891#1905#0" expanded="true" />
+            <element signature="e#3603#3611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/include/rootheader.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="56" column="29" lean-forward="true" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/teacher/teachlist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/teacher/teachlist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/teacher/grademanage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/teacher/gradecourse.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="27" column="117" selection-start-line="27" selection-start-column="117" selection-end-line="27" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/teacher/gradestudentlist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="80" column="29" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/teacher/coursegrademanage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/publicfun/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1438">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/content.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/include/teacherleft.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/tomcat9/lib/tomcat-util.jar!/org/apache/tomcat/util/threads/TaskThread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/teacher/studentlist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/teacher/studentlist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DB/CourseSemesterDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3031">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="e#8085#8101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/StudentInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#999#1000#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1075#1076#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/include/teacherheader.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="65" column="25" lean-forward="true" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/root/runingcontrol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/root/runingcontrol.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/Course_select.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/StudyCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/DbCourseDesign_war_exploded/css/add.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="228" column="20" lean-forward="true" selection-start-line="228" selection-start-column="20" selection-end-line="228" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/login.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/add.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="217" column="1" selection-start-line="217" selection-start-column="1" selection-end-line="217" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/include/sturight.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="85" column="22" lean-forward="true" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/include/stuleft.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="88" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/include/studentheader.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="63" column="25" lean-forward="true" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/root/newcourse.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/student/gradelist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/student/gradelist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/student/noticedetail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/course_table.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/include/htmlHead.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/CourseSemester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/student/course_table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DB/StudyCourseDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="300" column="19" lean-forward="true" selection-start-line="300" selection-start-column="19" selection-end-line="300" selection-end-column="19" />
+          <folding>
+            <element signature="e#10417#10430#0" expanded="true" />
+            <element signature="e#10998#11011#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/CourseTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1111#1112#0" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1214#1215#0" expanded="true" />
+            <element signature="e#1243#1244#0" expanded="true" />
+            <element signature="e#1288#1289#0" expanded="true" />
+            <element signature="e#1324#1325#0" expanded="true" />
+            <element signature="e#1371#1372#0" expanded="true" />
+            <element signature="e#1409#1410#0" expanded="true" />
+            <element signature="e#1460#1461#0" expanded="true" />
+            <element signature="e#1502#1503#0" expanded="true" />
+            <element signature="e#1544#1545#0" expanded="true" />
+            <element signature="e#1578#1579#0" expanded="true" />
+            <element signature="e#1620#1621#0" expanded="true" />
+            <element signature="e#1654#1655#0" expanded="true" />
+            <element signature="e#1692#1693#0" expanded="true" />
+            <element signature="e#1722#1723#0" expanded="true" />
+            <element signature="e#1771#1772#0" expanded="true" />
+            <element signature="e#1811#1812#0" expanded="true" />
+            <element signature="e#1859#1860#0" expanded="true" />
+            <element signature="e#1899#1900#0" expanded="true" />
+            <element signature="e#1947#1948#0" expanded="true" />
+            <element signature="e#1987#1988#0" expanded="true" />
+            <element signature="e#2032#2033#0" expanded="true" />
+            <element signature="e#2068#2069#0" expanded="true" />
+            <element signature="e#2106#2107#0" expanded="true" />
+            <element signature="e#2136#2137#0" expanded="true" />
+            <element signature="e#2183#2184#0" expanded="true" />
+            <element signature="e#2221#2222#0" expanded="true" />
+            <element signature="e#2272#2273#0" expanded="true" />
+            <element signature="e#2314#2315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/student/course_table.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>DbCourseDesign:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2893226" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2893226" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2893226" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2893226" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DbCourseDesign</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2893226" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2893226" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2893226" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
