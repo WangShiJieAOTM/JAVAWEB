@@ -50,7 +50,7 @@
         <h2>查询你的课表</h2>
     </div>
     <div class="row main" id="table" style="display: none;">
-        <h3 class="title">2017-2018学年第一学期</h3>
+        <h3 class="title">${se}</h3>
         <div class="header">
             <div class="stage">时间段</div>
             <div class="jie">节次</div>

@@ -19,6 +19,7 @@ public class changeinfo extends HttpServlet {
         request.setCharacterEncoding("utf-8");
         response.setCharacterEncoding("utf-8");
         response.setContentType("text/html");
+        response.setHeader("Cache-control","no-cache");
         String identity = request.getParameter("identity");
         String kind = request.getParameter("kind");
         String value = request.getParameter("value");
@@ -52,6 +53,7 @@ public class changeinfo extends HttpServlet {
                 response.setStatus(404);
             }
         }
+        
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

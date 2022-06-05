@@ -43,6 +43,8 @@
                                         <option value="理学院">理学院</option>
                                         <option value="外国语学院">外国语学院</option>
                                         <option value="经管学院">经管学院</option>
+                                        <option value="马克思主义学院">马克思主义学院</option>
+                                        <option value="体育部">体育部</option>                                        
                                     </select>
                                 </div>
                                 <div class="form-group">

@@ -193,6 +193,7 @@ public class CourseSemesterDB {
             temp.setSemester(set.getString("semester"));
             res.add(temp);
         }
+        DB.close(connection,ps,set);
         return res;
     }
 }

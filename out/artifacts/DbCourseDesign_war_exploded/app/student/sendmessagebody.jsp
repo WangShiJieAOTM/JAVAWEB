@@ -34,7 +34,7 @@
                 <div class="form-group">
                     <textarea id="message" class="content" name="content" placeholder="输入问题详细描述" required="required"></textarea>
                 </div>
-                <button type="submit" class="btn btn-default">Submit</button>
+                <button type="submit" class="btn btn-default">提交</button>
             </form>
         </div>
     </div>

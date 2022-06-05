@@ -93,21 +93,20 @@ public class select_course extends HttpServlet {
         ArrayList<Course_select> courselist=null;
         ArrayList<CourseSemester> selected=null;
         String cnolist=null;
-        String semester=null;
+//        String semester=null;
         try {
-            semester=semesterDB.getCurrentSemester();
-            selectLists=selectListDB.getinfoByCondition(major,semester,"1");
-            if(selectLists.size()!=0) {
-                cnolist = selectLists.get(0).getCno();
-                courselist = courseSemesterDB.select_course(semester, cnolist, sno,cno,cname,college,capaticy);
-                request.setAttribute("courselist", courselist);
-                request.getRequestDispatcher("app/student/select_course.jsp").forward(request, response);
+            ArrayList<String> semesters = semesterDB.getSemesterList();
+            for(String semester:semesters) {
+                selectLists = selectListDB.getinfoByCondition(major, semester, "1");
+                if (selectLists.size() != 0) {
+                    cnolist = selectLists.get(0).getCno();
+                    courselist = courseSemesterDB.select_course(semester, cnolist, sno, cno, cname, college, capaticy);
+                    request.setAttribute("courselist", courselist);
+                    request.getRequestDispatcher("app/student/select_course.jsp").forward(request, response);
+                }
             }
-            else
-            {
-                request.setAttribute("courselist", new ArrayList<Course_select>());
-                request.getRequestDispatcher("app/student/select_course.jsp").forward(request, response);
-            }
+//            request.setAttribute("courselist", new ArrayList<Course_select>());
+//            request.getRequestDispatcher("app/student/select_course.jsp").forward(request, response);
         } catch (SQLException e) {
             e.printStackTrace();
         }

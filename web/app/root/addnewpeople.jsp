@@ -47,6 +47,8 @@
                             <option value="理学院">理学院</option>
                             <option value="外国语学院">外国语学院</option>
                             <option value="经管学院">经管学院</option>
+                            <option value="马克思主义学院">马克思主义学院</option>
+                            <option value="体育部">体育部</option> 
                         </select>
                     </div>
                     <button type="submit" class="btn btn-default">提交</button>
@@ -80,6 +82,7 @@
                             <option value="讲师">讲师</option>
                             <option value="助教">助教</option>
                             <option value="工程师">工程师</option>
+                            <option value="书记">书记</option>
                             <option value="">暂无职称</option>
                         </select>
                     </div>
@@ -93,19 +96,21 @@
                             <option value="理学院">理学院</option>
                             <option value="外国语学院">外国语学院</option>
                             <option value="经管学院">经管学院</option>
+                            <option value="马克思主义学院">马克思主义学院</option>
+                            <option value="体育部">体育部</option> 
                         </select>
                     </div>
                     <div class="form-group">
                         <label for="location1" style="margin-right: 20px;">地址</label>
                         <select class="form-control college-search" id="location1" name="location1" style="width: 40%;">
-                            <option value="风华校区图书馆">风华校区图书馆</option>
-                            <option value="风华校区实验楼A">风华校区实验楼A</option>
-                            <option value="风华校区实验楼B">风华校区实验楼B</option>
-                            <option value="风华校区实验楼C">风华校区实验楼C</option>
-                            <option value="风华校区实验楼D">风华校区实验楼D</option>
-                            <option value="风华校区后勤楼">风华校区后勤楼</option>
-                            <option value="东校区图书馆">东校区图书馆</option>
-                            <option value="东校区科技大厦">东校区科技大厦</option>
+                            <option value="机器人学院">机器人学院</option>
+                            <option value="东一">东一</option>
+                            <option value="东二">东二</option>
+                            <option value="东三">东三</option>
+                            <option value="西一">西一</option>
+                            <option value="西二">西二</option>
+                            <option value="西三">西三</option>
+                            <option value="行政楼">行政楼</option>
                         </select>
                         <input type="text"
                                style="width: 40%;margin-left: 15px;display: inline-block;height: 34px;"

@@ -110,6 +110,8 @@
                     <option value="理学院">理学院</option>
                     <option value="外国语学院">外国语学院</option>
                     <option value="经管学院">经管学院</option>
+                    <option value="马克思主义学院">马克思主义学院</option>
+                    <option value="体育部">体育部</option> 
                 </select>
                 <label style="line-height: 100%;margin-right: 10px;">专业: </label>
                 <select class="form-control temp" id="major_search" required="required">
